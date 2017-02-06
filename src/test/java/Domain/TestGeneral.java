@@ -12,7 +12,7 @@ public class TestGeneral {
 
     @Test
     public void testCalc(){
-        Assert.assertEquals(44,util.calc(3,1));
+        Assert.assertEquals(4,util.calc(3,1));
     }
 
 }
